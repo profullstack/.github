@@ -81,6 +81,7 @@
 | Project | What it is |
 |---|---|
 | [bittorrented.com](https://bittorrented.com) | Stream music, movies, books and live TV from torrents and IPTV. Nothing downloads until playback. |
+| [nichedb.dev](https://nichedb.dev) | Sources in, feeds out. An open, ever-growing database of real-time public data across 13 niches, enriched and served by web, RSS, API, CLI and MCP. |
 | [rssamplifier.com](https://rssamplifier.com) | Agent-first directory of independent blogs. Every feed gets a page, plus JSON, OPML and llms.txt. |
 | [p0dcasters.com](https://p0dcasters.com) | Directory of independent, self-hosted podcasts on their own domains. |
 | [tipoffwatch.com](https://tipoffwatch.com) | Follow any team in the world and get told before they play. Sports calendar PWA. |
