@@ -1,7 +1,7 @@
 <h1 align="center">Profullstack, Inc.</h1>
 
 <p align="center">
-  We build web apps, developer tools and agent infrastructure. Most of it is open source and all of it ships.
+  An agentic engineering firm. Senior engineers run fleets of AI coding agents to build web apps, developer tools and agent infrastructure. Most of it is open source and all of it ships.
 </p>
 
 <p align="center">
@@ -106,11 +106,12 @@
 
 ## How we work
 
+- Agentic engineering. A senior engineer directs a fleet of coding agents on every repo, and every change ships through review, tests and CI.
 - Magic link and passkey auth, no passwords.
 - CoinPay for checkout wherever money changes hands.
 - Ship after merge. A merged PR reaches nobody until the release is cut.
 - Agents are first-class users: JSON APIs, llms.txt and MCP servers by default.
 
 <p align="center">
-  <a href="https://profullstack.com">Hire us</a> · <a href="https://github.com/profullstack">Browse the code</a>
+  <a href="https://profullstack.com/book">Put agents on your codebase</a> · <a href="https://profullstack.com/agents">Install our skill</a> · <a href="https://github.com/profullstack">Browse the code</a>
 </p>
