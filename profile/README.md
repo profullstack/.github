@@ -113,5 +113,5 @@
 - Agents are first-class users: JSON APIs, llms.txt and MCP servers by default.
 
 <p align="center">
-  <a href="https://profullstack.com/book">Put agents on your codebase</a> · <a href="https://profullstack.com/agents">Install our skill</a> · <a href="https://github.com/profullstack">Browse the code</a>
+  <a href="https://profullstack.com/diagnostic">Put agents on your codebase</a> · <a href="https://profullstack.com/book">Free ebook</a> · <a href="https://profullstack.com/agents">Install our skill</a> · <a href="https://github.com/profullstack">Browse the code</a>
 </p>
