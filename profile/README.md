@@ -29,9 +29,9 @@
 | Project | What it is |
 |---|---|
 | [coinpayportal.com](https://coinpayportal.com) | Non-custodial crypto payment gateway for e-commerce. Powers checkout across the rest of this list. |
-| [weedforcrypto.com](https://weedforcrypto.com) | Cannabis discovery and CoinPay crypto checkout for licensed dispensaries. |
-| [recipepdfs.com](https://recipepdfs.com) | Marketplace for free and paid recipe PDF cookbooks, CoinPay accounts and checkout. |
-| [goingbroke.now](https://goingbroke.now) | A countdown that resets to a full week every time a BTC, ETH or SOL wallet receives a deposit. |
+| [weedforcrypto.com](https://weedforcrypto.pwa.pit.world) | Cannabis discovery and CoinPay crypto checkout for licensed dispensaries. |
+| [recipepdfs.com](https://recipepdfs.pwa.pit.world) | Marketplace for free and paid recipe PDF cookbooks, CoinPay accounts and checkout. |
+| [goingbroke.now](https://goingbroke.pwa.pit.world) | A countdown that resets to a full week every time a BTC, ETH or SOL wallet receives a deposit. |
 
 ### AI and agents
 
@@ -46,9 +46,9 @@
 | [phonenumbers.bot](https://phonenumbers.bot) | Real physical SIM cards for AI agents. 2FA and verification where VOIP numbers are blocked. |
 | [bl0ggers.com](https://bl0ggers.com) | Human-in-the-loop AI publishing for blogs, podcasts and newsletters. |
 | [postammo.com](https://postammo.com) | Viral hot takes for social media. A strong opinion when you don't have one. |
-| [brisk.news](https://brisk.news) | AI news summaries and audio briefings, fed by a 33k-blog small-web firehose. |
-| [advis0r.com](https://advis0r.com) | Executive-transcript stock discovery. Public exec communications plus market and SEC data, ranked with evidence. Not financial advice. |
-| [aiornot.vote](https://aiornot.vote) | Is this photo or video AI-generated or real? Guess, track your record, climb the leaderboard. |
+| [brisk.news](https://brisk.pwa.pit.world) | AI news summaries and audio briefings, fed by a 33k-blog small-web firehose. |
+| [advis0r.com](https://advis0r.pwa.pit.world) | Executive-transcript stock discovery. Public exec communications plus market and SEC data, ranked with evidence. Not financial advice. |
+| [aiornot.vote](https://aiornot.pwa.pit.world) | Is this photo or video AI-generated or real? Guess, track your record, climb the leaderboard. |
 
 ### Security and privacy
 
@@ -70,10 +70,10 @@
 | [marksyncr.com](https://marksyncr.com) | Cross-browser extension for two-way bookmark sync to local files, GitHub or Dropbox. |
 | [smshub.dev](https://smshub.dev) | Real-time SMS platform with a unified inbox, Twilio and Telnyx providers, API first. |
 | [pairux.com](https://pairux.com) | Collaborative screen sharing with simultaneous remote control. Screenhero, but open source. |
-| [d3vices.com](https://d3vices.com) | Hardware diagnostics in the browser, as a PWA or on the desktop. Mic, camera, screen, keyboard, sensors, network. |
+| [d3vices.com](https://d3vices.pwa.pit.world) | Hardware diagnostics in the browser, as a PWA or on the desktop. Mic, camera, screen, keyboard, sensors, network. |
 | [c0mpute.com](https://c0mpute.com) | Decentralized compute network, CLI first. Transcode, CoinPay escrow and inference modules out of the box. |
 | [infernetprotocol.com](https://infernetprotocol.com) | Peer-to-peer GPU marketplace for inference and training. Operators run one command and earn crypto. No native token. |
-| [saasrow.com](https://saasrow.com) | Software directory. Discover, vote and submit. Free listings with dofollow backlinks. |
+| [saasrow.com](https://saasrow.pwa.pit.world) | Software directory. Discover, vote and submit. Free listings with dofollow backlinks. |
 | [moshcoding.com](https://moshcoding.com) | Point any domain at it for an instant metal coming-soon page with a waitlist. Code hard, mosh harder. |
 
 ### Media, directories and events
@@ -87,7 +87,7 @@
 | [tipoffwatch.com](https://tipoffwatch.com) | Follow any team in the world and get told before they play. Sports calendar PWA. |
 | [genrewatch.com](https://genrewatch.com) | A release calendar for every genre. Follow a genre or a name, get told before it drops. |
 | [reeleel.com](https://reeleel.com) | Local-first youth-sports video intelligence. Point at your kid, get a shareable highlight reel. |
-| [c0ncerts.com](https://c0ncerts.com) | Ticketed livestreams, replays and reusable footage for bands, venues and promoters. |
+| [c0ncerts.com](https://c0ncerts.pwa.pit.world) | Ticketed livestreams, replays and reusable footage for bands, venues and promoters. |
 | [bbs.profullstack.com](https://bbs.profullstack.com) | AgentBBS. A 1980s bulletin board reborn over SSH for humans and AI agents. Arcade, IRC, mail, git, Linux pods. |
 
 ### Marketplaces and commerce
@@ -96,9 +96,9 @@
 |---|---|
 | [ugig.net](https://ugig.net) | Marketplace for AI-assisted engineers and skilled workers. |
 | [d0rz.com](https://d0rz.com) | Local assistance marketplace: rides, errands, delivery, groceries, appointment transport, home help. |
-| [c0upons.com](https://c0upons.com) | Community coupon codes across hundreds of stores. Free, no account needed. |
+| [c0upons.com](https://c0upons.pwa.pit.world) | Community coupon codes across hundreds of stores. Free, no account needed. |
 | [b1dz.com](https://b1dz.com) | Multi-source profit monitor across live auctions, travel pricing, dropshipping, deals and crypto exchanges. |
-| [naallo.com](https://naallo.com) | Custom tattoo artistry and mobile auto detailing. Two crafts, one artist. |
+| [naallo.com](https://naallo.pwa.pit.world) | Custom tattoo artistry and mobile auto detailing. Two crafts, one artist. |
 
 ### Coming soon
 
